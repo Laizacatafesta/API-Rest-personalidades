@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/Laizacatafesta/API-Rest-personalidades.git/models"
 	"github.com/Laizacatafesta/API-Rest-personalidades.git/routes"
-	"github.com/Laizacatafesta/API-Rest-personalidades.git/routes/models"
 )
 
 func main() {

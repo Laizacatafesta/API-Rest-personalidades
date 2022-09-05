@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Laizacatafesta/API-Rest-personalidades.git/routes/models"
+	"github.com/Laizacatafesta/API-Rest-personalidades.git/models"
 	"github.com/gorilla/mux"
 )
 
