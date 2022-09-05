@@ -9,8 +9,8 @@ import (
 
 func main() {
 	models.Personalidades = []models.Personalidade{
-		{Nome: "Anne", Historia: "Historia 1"},
-		{Nome: "Diana", Historia: "Historia 2"},
+		{Id: 1, Nome: "Anne", Historia: "Historia 1"},
+		{Id: 2, Nome: "Diana", Historia: "Historia 2"},
 	}
 
 	fmt.Println("Iniciando")
